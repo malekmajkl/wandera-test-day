@@ -1,0 +1,34 @@
+.terraform*
+terraform.tfstate.backup
+
+kubeconfig/
+e2e-out/
+
+# COMMON FILES
+.DS_Store
+*.log
+.flattened-pom.xml
+.attach_*
+.classpath
+.project
+.springBeans
+.settings/
+target/
+bin/
+build/
+pid
+.m2/
+data/
+
+# IDE FILES
+*.iml
+.idea/
+.vscode/
+.factorypath
+.tern-project
+nb-configuration.xml
+nbactions.xml
+nbproject
+nbactions-*.xml
+out/
+
