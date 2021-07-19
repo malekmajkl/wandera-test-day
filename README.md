@@ -1,4 +1,4 @@
-# wndera-test-day
+# wandera-test-day
 deploy ELK stack
 
 ```sh
